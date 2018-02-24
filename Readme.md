@@ -1,7 +1,7 @@
 # vcard-wildcard
 
 
-`
+```
 usage: vcard-wildcard.py [-h] [--lastname LASTNAME] [--firstname FIRSTNAME]
                          [--company COMPANY]
                          number
@@ -20,4 +20,4 @@ optional arguments:
   --lastname LASTNAME
   --firstname FIRSTNAME
   --company COMPANY
-`
+```
